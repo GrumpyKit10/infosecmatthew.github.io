@@ -29,7 +29,7 @@ github_username:  GrumpyKit10
 linkedin_username: ZeroKeyMaster
 
 # Build settings
-theme: jekyll-theme-minima
+theme: minima
 plugins:
   - jekyll-feed
 

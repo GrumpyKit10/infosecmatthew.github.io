@@ -52,7 +52,7 @@ This project implements multiple hash tables to manage airline-related data effi
 ---
 
 ### This Website
-Personal Portfolio Website built with Jekyll and Minima theme. Showcases projects, blog posts, and professional information, with GitHub integration for dynamic project listing. 
+A personal, static portfolio website for Matthew Wilson, showcasing projects in cybersecurity, server engineering, and IT. Built with Jekyll and Minima, manually updated, and hosted at infosecmatthew.com 
 
 - Tech: Ruby, CSS, Jekyll, Markdown, Github Pages, Web Developement
 - [View on GitHub](https://github.com/GrumpyKit10/GrumpyKit10.github.io)

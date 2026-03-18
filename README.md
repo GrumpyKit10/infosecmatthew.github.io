@@ -30,7 +30,7 @@ To run the site locally:
    ```bash
    git clone git@github.com:GrumpyKit10/GrumpyKit10.github.io.git
    cd GrumpyKit10.github.io
-````
+   ```
 
 2. **Install dependencies**
 
